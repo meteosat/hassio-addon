@@ -1,7 +1,7 @@
 {
-    "name": "evcc",
+    "name": "evcc-alfen",
     "version": "0.124.10a",
-    "slug": "evcc",
+    "slug": "evcc-alfen",
     "description": "EV Charge Controller! with Alfen",
     "url": "https://github.com/meteosat/evcc-alfen",
     "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
